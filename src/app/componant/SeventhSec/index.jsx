@@ -4,23 +4,18 @@ const SeventhSec = () => {
     return (
         <div className='bg-black'>
         {/* Header Section */}
-        <div className='flex flex-col md:flex-row items-center justify-around py-6 px-4'>
-            {/* Logo */}
+        {/* <div className='flex flex-col md:flex-row items-center justify-around py-6 px-4'>
+            
             <img 
             src='/tmaLogo.jpeg' 
             alt='gatesfx' 
             className='h-12 md:h-16 w-auto object-cover mb-4 md:mb-0' 
             />
             
-            {/* Text */}
             <p className='text-white font-bold text-center md:text-left mb-4 md:mb-0 px-4'>
             Start Testing Your Strategies Safely With a Demo Account
             </p>
             
-            {/* Button */}
-            {/* <button className="join-button rounded-lg px-6 py-2 text-sm md:text-base md:mt-5">
-            Open Demo Account
-            </button> */}
             <a 
                 href="https://secure.gatesfx.com/links/go/170"
                 target="_blank" 
@@ -29,7 +24,7 @@ const SeventhSec = () => {
             >
                 Open Demo Account
             </a>
-        </div>   
+        </div>    */}
         
         {/* Social Icons */}
         <div className='flex justify-center items-center py-4 space-x-6 md:space-x-10'>
