@@ -7,9 +7,9 @@ const index = () => {
   {/* Top Section */}
   <div className="grid grid-cols-3 md:grid-cols-3 gap-6 max-w-7xl mx-auto mb-8">
     {[ // You can also map through these
-      { img: "/dps.png", label1: "Fast", label2: "Deposit" },
+      { img: "/dps.png", label1: "Fast", label2: "Deposits" },
       { img: "/wtl.png", label1: "Fast", label2: "Withdrawals" },
-      { img: "/nofe.png", label1: "No", label2: "Fee" }
+      { img: "/nofe.png", label1: "No", label2: "Fee’s" }
     ].map((item, i) => (
       <div key={i} className="border border-[#16a1f6] border-b-8 rounded-full flex flex-col md:flex-row items-center justify-center  md:px-6 md:py-6 lg:px-6 lg:py-6">
         <img
