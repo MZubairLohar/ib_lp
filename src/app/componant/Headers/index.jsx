@@ -36,7 +36,7 @@ const index = () => {
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-white">
               Trade with<br />
               <span className="text-[#16a1f6]">The Moving Average's</span><br />
-              Favourite Broker
+              Favorite Broker
           </h1>
           <p className="text-base sm:text-lg md:text-xl lg:text-2xl opacity-90 mt-3 text-[#f5b115]">
               Sign up to trade Forex, Cryptos, Stocks, Commodities and Indices with full STP execution.

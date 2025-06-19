@@ -7,7 +7,7 @@ const SixthSec = () => {
         {/* Text Content */}
         <div className="flex-1 text-center lg:text-left md:ml-16 lg:ml-16  ">
             <h2 className="text-white font-bold text-3xl sm:text-4xl lg:text-5xl leading-tight">
-            Maximise your Trading Knowledge with our Tools
+            Maximize your Trading Knowledge with our Tools
             </h2>
             <p className="text-[#b2b2b2] mt-4 text-base sm:text-lg">
             Daily Market News, Margin Calculator, PIP Value Calculator, Currency Converter and much more.
